@@ -1,2 +1,2 @@
-# Kellen_portfolio
-Data Science Project
+# Kellen's_portfolio
+Data Science Projects
